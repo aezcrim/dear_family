@@ -1,0 +1,244 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Dear Family</title>
+	<style type="text/css">
+
+		body {
+			min-width: 800px;
+		}
+
+		#FMB {
+			padding-left: 200px;
+			padding-right: 200px;
+            overflow: hidden;
+		}
+		
+		#FMB .column {
+			position: relative;
+			float: left;
+            padding-bottom: 1000em;
+			margin-bottom: -1000em;
+            padding-top: 1em;
+		}
+        
+		#FMHD {
+			font-size: large;
+			padding: 0.3em;
+			background: #000000;
+            color: #ffffff;
+		}
+		
+		#FMMC {
+			padding: 20px 20px;
+			width: 1000px;
+            text-align: center;
+            color: #ffffff;
+            background: #080071;
+            
+		}
+		
+		#FMLC {
+			width: 144px;
+			padding: 40px 40px;
+			right: 240px;
+			margin-left: -100%;
+            color: #ffffff;
+            background: rgba(162, 7, 7, 0.79);
+		}
+		
+		#FMRC {
+			width: 160px;
+			padding: 20px 20px;
+			margin-right: -100%;
+            color: #ffffff;
+            background: #006400;
+		}
+        
+        #RV {
+            color: #ffffff;
+        }
+        
+        #FR {
+            color: #ffffff;
+        }
+		
+		* html #FMLC {
+			left: 150px;
+		}
+
+		* html body {
+			overflow: hidden;
+		}
+
+
+		body {
+			margin: 0;
+			padding: 0;
+			font-family:Sans-serif;
+			line-height: 1.5em;
+		}
+
+		nav ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+		
+		nav ul a {
+			color: #000000;
+			text-decoration: none;
+		}
+		
+	</style>
+		
+</head>
+
+<body id="FMA">
+
+	<header id="FMHD"><p>What is Love? A lifelong blessing.</p></header>
+
+	<div id="FMB">
+
+		<main id="FMMC" class="column">
+			<article>
+			<div id="FM">
+			<h1>Dear Family</h1>
+            <section id="FM1">
+                <div>
+                Mom, I fear I let you down, you say that if it's gone, it's done
+                </div>
+                <div>
+                You say that it's okay, but I wish I was a better son
+                </div>
+                <div>
+                And dad, I'm scared you might agree with this
+                </div>
+                <div>
+                'Cause I see my grades down in the abyss
+                </div>
+                <div>
+                But I guess we are who we are and it's no surprise
+                </div>
+                <div>
+                You understand that it's hard even when I disguise
+                </div>
+                <div>
+                I just don't wear my heart on my sleeve at all
+                </div>
+                <div>
+                But you still know I have problems big and small
+                </div>
+            </section>
+            <section id="FM2">
+                <h2></h2>
+                <div>
+                And my brothers, taught me so much and made me so strong
+                </div>
+                <div>
+                All the lessons we share with each other made lifelong
+                </div>
+                <div>
+                I sometimes feel I don't deserve this much
+                </div>
+                <div>
+                Because when I reminisce I'm so touched
+                </div>
+                <div>
+                I feel bad I can't do the same for the family I care for
+                </div>
+                <div>
+                And I always dream of giving back all I can and even more
+                </div>
+                <div>
+                But I guess that's just how things are when you're the youngest
+                </div>
+                <div>
+                But the fear of you not seeing my success humongous
+                </div>
+            </section>
+            <section id="FM3">
+                <h2></h2>
+                <div>
+                I wish you could see me grow old before you start going
+                </div>
+                <div>
+                'Cause I'd hate for you to leave without knowing
+                </div>
+                <div>
+                If I'm independent and capable of taking care of myself
+                </div>
+                <div>
+                If I can have a job, a family, and photos on a shelf
+                </div>
+                <div>
+                That's why I vow to do my best, even when it's hard
+                </div>
+                <div>
+                Because I know my growth may be your greatest reward
+                </div>
+                <div>
+                And I'm so grateful, my God, thank you
+                </div>
+                <div>
+                That I have my brothers, mom, and dad too
+                </div>
+            </section>
+            <section id="FM4">
+                <h2></h2>
+                <div>
+                I love you all, but I know I can't say it
+                </div>
+                <div>
+                Because that's just how the family does things everyday and
+                </div>
+                <div>
+                To have all that I have
+                </div>
+                <div>
+                I'm truly so glad
+                </div>
+                <div>
+                I might never be able to repay my debt
+                </div>
+                <div>
+                But at least I should let you go without regrets
+                </div>
+                <div>
+                Happy Heart Day from the youngest in the six
+                </div>
+                <div>
+                And here's the thanks I send to you in spirit
+                </div>
+            </section>
+                </div>
+			
+			</article>								
+		</main>
+
+		<nav id="FMLC" class="column">
+			<ul>
+                <li><a href="#"><h3 id="RV">Partner</h3></a></li>
+                <p>
+                    Parents may be strict regarding love life. They definitely understand how hard and painful relationships can be. Your whole family can and will help you as long as you ask. But parents grew up in a different time. It only makes sense that some standards and concepts may have changed.
+                </p>
+                <p>
+                    Introducing your partner to your family is always tough, the first time. Especially when you're at that age where your parents don't want to risk their youngest kid becoming a father so I completely understand the hesitation. I'm not mad at all. In fact, I'm glad they care so much.
+                </p>
+			</ul>
+		</nav>
+
+		<nav id="FMRC" class="column">
+            <ul>
+				<li><a href="#"><h3 id="FR">Friends</h3></a></li>
+                <p>
+                    I'm at that point in my life where I don't have many friends at school. College is so different and my parents understand that. I'm so thankful they are. They tell me I can't survive college without friends but they advise me to not get peer pressured. I'm doing my best, mom and dad. Just know that. Thank you.
+                </p>
+                <p>
+                    Regarding my friends I have been with for years, my parents probably see them as nephews in some way. That's just how close we are. They trust them with me almost as much as they trust my elder brothers. I truly am thankful for all of the things my friends and family have taught me.
+                </p>
+			</ul>
+         </nav>
+		</div>
+</body>
+</html>
